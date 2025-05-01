@@ -100,7 +100,7 @@ function set_strings() {
     ####
 
 
-    CHROOT=$HOME/chroot/kali-${SYS_ARCH} # Modified Line
+    CHROOT=$HOME/kali-${SYS_ARCH} # Modified Line
     IMAGE_NAME=kali-nethunter-2025.1-rootfs-${wimg}-${SYS_ARCH}.tar.xz  # Modified line
     SHA_NAME=kali-nethunter-2025.1-rootfs-${wimg}-${SYS_ARCH}.tar.xz.sha512sum # Modified Line
 }
